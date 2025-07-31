@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5044399-B810-4BDF-8DB4-E9EFA50BB255}|EmployeeManagementPL\\EmployeeManagementPL.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementpl\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C5044399-B810-4BDF-8DB4-E9EFA50BB255}|EmployeeManagementPL\\EmployeeManagementPL.csproj|solutionrelative:employeemanagementpl\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556696F4-B5A1-4805-B861-68BF49E9E112}|EmployeeManagementServiceDAL\\EmployeeManagementServiceDAL.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementservicedal\\appdata\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556696F4-B5A1-4805-B861-68BF49E9E112}|EmployeeManagementServiceDAL\\EmployeeManagementServiceDAL.csproj|solutionrelative:employeemanagementservicedal\\appdata\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556696F4-B5A1-4805-B861-68BF49E9E112}|EmployeeManagementServiceDAL\\EmployeeManagementServiceDAL.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementservicedal\\employeelinqdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556696F4-B5A1-4805-B861-68BF49E9E112}|EmployeeManagementServiceDAL\\EmployeeManagementServiceDAL.csproj|solutionrelative:employeemanagementservicedal\\employeelinqdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5044399-B810-4BDF-8DB4-E9EFA50BB255}|EmployeeManagementPL\\EmployeeManagementPL.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementpl\\employeewebform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5044399-B810-4BDF-8DB4-E9EFA50BB255}|EmployeeManagementPL\\EmployeeManagementPL.csproj|solutionrelative:employeemanagementpl\\employeewebform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5044399-B810-4BDF-8DB4-E9EFA50BB255}|EmployeeManagementPL\\EmployeeManagementPL.csproj|d:\\tools\\asp .net framework\\employeemanagement\\employeemanagementpl\\employeewebform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5044399-B810-4BDF-8DB4-E9EFA50BB255}|EmployeeManagementPL\\EmployeeManagementPL.csproj|solutionrelative:employeemanagementpl\\employeewebform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B7EF7-D2DC-4BDB-87EC-2B8C6D20E594}|EmployeeManagementServiceBAL\\EmployeeManagementServiceBAL.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementservicebal\\employeelinqbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B7EF7-D2DC-4BDB-87EC-2B8C6D20E594}|EmployeeManagementServiceBAL\\EmployeeManagementServiceBAL.csproj|solutionrelative:employeemanagementservicebal\\employeelinqbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B7EF7-D2DC-4BDB-87EC-2B8C6D20E594}|EmployeeManagementServiceBAL\\EmployeeManagementServiceBAL.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementservicebal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B7EF7-D2DC-4BDB-87EC-2B8C6D20E594}|EmployeeManagementServiceBAL\\EmployeeManagementServiceBAL.csproj|solutionrelative:employeemanagementservicebal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455FDE68-A488-4681-ACAE-39D05843ED67}|EmployeeManagementServiceModel\\EmployeeManagementServiceModel.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementservicemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455FDE68-A488-4681-ACAE-39D05843ED67}|EmployeeManagementServiceModel\\EmployeeManagementServiceModel.csproj|solutionrelative:employeemanagementservicemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556696F4-B5A1-4805-B861-68BF49E9E112}|EmployeeManagementServiceDAL\\EmployeeManagementServiceDAL.csproj|D:\\Tools\\Asp .net Framework\\EmployeeManagement\\employeemanagementservicedal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556696F4-B5A1-4805-B861-68BF49E9E112}|EmployeeManagementServiceDAL\\EmployeeManagementServiceDAL.csproj|solutionrelative:employeemanagementservicedal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeLinqBAL.cs",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceBAL\\EmployeeLinqBAL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementServiceBAL\\EmployeeLinqBAL.cs",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceBAL\\EmployeeLinqBAL.cs",
+              "RelativeToolTip": "EmployeeManagementServiceBAL\\EmployeeLinqBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:48:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeBAL.cs",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceBAL\\EmployeeBAL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementServiceBAL\\EmployeeBAL.cs",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceBAL\\EmployeeBAL.cs",
+              "RelativeToolTip": "EmployeeManagementServiceBAL\\EmployeeBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:47:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeLinqDAL.cs",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceDAL\\EmployeeLinqDAL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementServiceDAL\\EmployeeLinqDAL.cs",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceDAL\\EmployeeLinqDAL.cs",
+              "RelativeToolTip": "EmployeeManagementServiceDAL\\EmployeeLinqDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:34:54.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeWebForm.aspx.cs",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementPL\\EmployeeWebForm.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementPL\\EmployeeWebForm.aspx.cs",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementPL\\EmployeeWebForm.aspx.cs",
+              "RelativeToolTip": "EmployeeManagementPL\\EmployeeWebForm.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:16:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementPL\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeManagementPL\\Web.config",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementPL\\Web.config",
+              "RelativeToolTip": "EmployeeManagementPL\\Web.config",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-16T05:28:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceDAL\\AppData\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementServiceDAL\\AppData\\MyDbContext.cs",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceDAL\\AppData\\MyDbContext.cs",
+              "RelativeToolTip": "EmployeeManagementServiceDAL\\AppData\\MyDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:31:52.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeWebForm.aspx",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementPL\\EmployeeWebForm.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagementPL\\EmployeeWebForm.aspx",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementPL\\EmployeeWebForm.aspx",
+              "RelativeToolTip": "EmployeeManagementPL\\EmployeeWebForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-16T04:56:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceModel\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementServiceModel\\Employee.cs",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceModel\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementServiceModel\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:32:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceDAL\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementServiceDAL\\EmployeeDAL.cs",
+              "ToolTip": "D:\\Tools\\Asp .net Framework\\EmployeeManagement\\EmployeeManagementServiceDAL\\EmployeeDAL.cs",
+              "RelativeToolTip": "EmployeeManagementServiceDAL\\EmployeeDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:32:21.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
